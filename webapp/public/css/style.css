@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#containerCharts {
+    display: flex;
+    align-items: center;
+}
+
+#pieChart {
+    position: relative;
+    right: 30px;
+    top: 25px;
+    width: 100%;
+    max-width: 700px;
+}
+
+#barChart {
+    position: relative;
+    right: 100px;
+    top: 25px;
+    width: 100%;
+    max-width: 700px;
+}
+
+/* Header CSS */
+.containerHeader {
+    width: 90%; /* Settings for header box */
+    margin: auto; 
+}
+
+header {
+    background-color: #1E5631;
+}
+
+header h1 {
+    color: white;
+    font-size: 35px;
+    font-family: "Press Start 2P", cursive;
+    position: relative;
+    display: inline-block;
+    bottom: 30px;
+    margin: 0px 0px 0px 40px;
+}
+
+#logo1 {
+    margin-top: 15px;
+    margin-left: 350px;
+    margin-bottom: 5px;
+    width: 80px;
+    height: 80px;
+}
+
+#logo2 {
+    margin-left: 40px;
+    margin-bottom: 5px;
+    width: 80px;
+    height: 80px;
+}
+
+body {
+    overflow: hidden;
+    background-color: #68BB59;
+}
+
+#containerButtons {
+    margin: 20px 0px 0px 250px;
+}
+
+#containerButtons button {
+    color: white;
+    font-size: 15px;
+    border-color: black;
+    background-color: #4C9A2A;
+    width: 150px;
+    height: 50px;
+    margin: 0px 0px 0px 10px;
+}
+
+#containerButtons button:focus {
+    background-color: #1E5631;
+}
+
+
+/* Footer */
+.containerFooter {
+    width: 90%; /* Settings for header box */
+}
+
+footer {
+    position: relative;
+    top: 70px;
+    background-color: #1E5631;
+    height: 80px;
+}
+
+footer p {
+    position: relative;
+    color: white;
+    font-family: "Press Start 2P", cursive;
+    top: 19px;
+    margin-left: 470px;
+}
