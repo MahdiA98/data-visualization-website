@@ -1,5 +1,5 @@
 # Data Visualization Website
-Built in HTML, CSS, JavaScript, TypeScript and AWS Lambda.
+Built in JavaScript and TypeScript, with AWS.
 
 Developed as part of my summative assignment, for the 'Advanced Web Development with Big Data' module.
 
