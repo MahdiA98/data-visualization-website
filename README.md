@@ -37,9 +37,9 @@ Front-end files were uploaded into S3 buckets and hosted within the cloud.
 Select one of the five teams to be presented with the data associated with it. Graphs include interactivity and display further information when hovering the mouse over certain parts.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [TypeScript](https://www.typescriptlang.org/) - Programming Language
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-- [AWS](https://aws.amazon.com/) - Cloud Service
+- [TypeScript](https://www.typescriptlang.org/)
+- [NodeJs](https://nodejs.org/en/)
+- [AWS](https://aws.amazon.com/)
   - [S3](https://aws.amazon.com/s3/)
   - [Lambda](https://aws.amazon.com/lambda/)
   - [DynamoDB](https://aws.amazon.com/dynamodb/)
